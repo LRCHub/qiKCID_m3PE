@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "ハルジオン",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2025-12-15T15:09:03.076377Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハルジオン",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/01_ハルジオン_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハルジオン",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/02_ハルジオン_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハルジオン",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/03_ハルジオン_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハルジオン",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/04_ハルジオン_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Harujion [ハルジオン]",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/05_Harujion_[ハルジオン]_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ハルジオン",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/06_ハルジオン_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ハルジオン",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/07_ハルジオン_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ハルジオン (Harujion)",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/08_ハルジオン_(Harujion)_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ハルジオン",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/09_ハルジオン_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ハルジオン",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/10_ハルジオン_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ハルジオン",
+      "artist": "MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/11_ハルジオン_MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ハルジオン",
+      "artist": "Ayase Feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/12_ハルジオン_Ayase_Feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ハルジオン (2nd‐MIX)",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/13_ハルジオン_(2nd‐MIX)_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ハルジオン",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/14_ハルジオン_UVERworld.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ハルジオン",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/15_ハルジオン_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ハルジオン",
+      "artist": "MY FIRST STORY",
+      "has_synced": false,
+      "path": "select/16_ハルジオン_MY_FIRST_STORY.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ハルジオン",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/17_ハルジオン_Ayase.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハルジオン",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_ハルジオン_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
